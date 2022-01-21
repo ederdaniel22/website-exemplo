@@ -15,7 +15,7 @@ atualização de css com estilização dos componentes já criados
 
 ## Site para verficar gradientes prontos: https://uigradients.com/#Purplin
 
-## Icones site para baixar:
+## Icones e Emojis site para baixar: https://www.webfx.com/tools/emoji-cheat-sheet/
 
 :package: nova funcionalidade
 :up: atualização
