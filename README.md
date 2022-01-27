@@ -17,7 +17,14 @@ atualização de css com estilização dos componentes já criados
 
 ## Icones e Emojis site para baixar: https://www.webfx.com/tools/emoji-cheat-sheet/
 
-:package: nova funcionalidade
-:up: atualização
-: beatle: correção de bug
-:checkered_flag: release
+## Site de configuração dos ícones das redes sociais:
+
+## https://fontawesome.com/v5.15/icons?d=gallery&p=2
+
+- :package: nova funcionalidade
+- :up: atualização
+- :beatle: correção de bug
+- :checkered_flag: release
+
+Implementação do script com a configuração do menu hamburguer.
+Atualização do style com as configurações dos menus.
