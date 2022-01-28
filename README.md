@@ -23,7 +23,7 @@ atualização de css com estilização dos componentes já criados
 
 - :package: nova funcionalidade
 - :up: atualização
-- :beatle: correção de bug
+- :beetle: correção de bug
 - :checkered_flag: release
 
 Implementação do script com a configuração do menu hamburguer.
